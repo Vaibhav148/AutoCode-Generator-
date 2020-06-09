@@ -1,11 +1,11 @@
 # AutoCode-Generator-
 It converts input Pseudo-code (Algorithm) into C Source code using flex and bison.
 
-Sample input and output :
+### Sample input and output :
 
 <img src= "/screenshots/output.png" >
 
-How to run :
+### How to run :
 - Clone this repo
 ```
 $ git clone https://github.com/Vaibhav148/AutoCode-Generator-
