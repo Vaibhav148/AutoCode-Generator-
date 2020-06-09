@@ -1,0 +1,1 @@
+begin  assign (a int)  assign (b int) assign (sum int) read int , a read int , b assign sum to a+b print int , sum end
